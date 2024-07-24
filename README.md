@@ -1,14 +1,18 @@
 # K-Nearest Neighbors (KNN) Classification Project
 Overview
+
 This project uses the K-Nearest Neighbors (KNN) algorithm to classify data from the German Breast Cancer Study Group dataset. The goal is to predict the status of breast cancer patients based on various features. The project includes data preprocessing, model training, evaluation, and visualization of the results.
 
 Project Purpose
+
 The purpose of this project is to explore the application of the KNN algorithm in a practical setting, to understand its performance, and to visualize the results. The steps involved are carefully chosen to ensure a thorough analysis and evaluation of the model.
 
 Python and Jupyter Notebook
+
 Python is chosen for its rich ecosystem of libraries for data analysis and machine learning. Jupyter Notebook is used as the environment for interactive coding, which allows for easy exploration, visualization, and documentation of the steps involved in the project.
 
 Step-by-Step Explanation
+
 Importing Libraries:
 A variety of libraries are imported at the beginning of the project, including numpy and pandas for data manipulation, scikit-learn for machine learning, and matplotlib and seaborn for data visualization. These libraries provide the necessary tools for performing data analysis and building the KNN model.
 
@@ -55,4 +59,5 @@ Evaluating with Subset of Features:
 The model is evaluated using a subset of features to understand the impact of feature selection on its performance. This helps in identifying the most important features and can lead to a simpler, more interpretable model.
 
 Conclusion
+
 This project demonstrates the application of the KNN algorithm for classifying breast cancer status using data from the German Breast Cancer Study Group. Each step is designed to ensure comprehensive data analysis, model training, and evaluation. The use of Python and Jupyter Notebook provides an interactive and flexible environment for exploring and visualizing the results.
